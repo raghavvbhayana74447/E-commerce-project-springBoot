@@ -80,6 +80,12 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+
+		
+    <configuration>
+        <mainClass>com.jtspringproject.JtSpringProject.JtSpringProjectApplication</mainClass>
+    </configuration>
+
 	</build>
 
 </project>
